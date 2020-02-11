@@ -1,5 +1,6 @@
 import React, {Component} from "react";
 import './_game.scss'
+import Game_In from "../game_in/_game_in";
 
 class Game extends Component {
     componentDidMount() {
@@ -7,7 +8,9 @@ class Game extends Component {
 
     render() {
         return (
-            <div className='game'>game</div>
+            <div className='game'>
+                <Game_In/>
+            </div>
         )
     }
 }
