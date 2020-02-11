@@ -22,10 +22,14 @@
       height: 15%;
       border: 1px solid #ff0b00;
       color: #f5ff00;
-      font-size: 55px;
+      font-size: 75px;
+      letter-spacing: 1px;
+      text-shadow: 5px 5px 10px #282626;
       display: flex;
       justify-content: center;
       align-items: center;
+      -webkit-text-stroke-width: 3px;
+      -webkit-text-stroke-color: #000656;
     }
   }
 

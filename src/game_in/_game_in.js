@@ -4,6 +4,7 @@ import Story from '../story/_story';
 import Era from '../era/_era';
 import Counter from '../counter/_counter';
 import Tap from '../tap/_tap';
+import Era_Switcher from '../era_switcher/_era_switcher'
 
 class Game_In extends Component {
     componentDidMount() {
@@ -16,6 +17,7 @@ class Game_In extends Component {
                     <div className="title">
                         Evolution Game
                     </div>
+                    <Era_Switcher/>
                     <Story/>
                 </div>
                 <div className="era_counter_tap">

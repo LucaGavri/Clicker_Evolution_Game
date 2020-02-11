@@ -1,0 +1,34 @@
+.era_switcher{
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  .switch_style{
+    width: 17%;
+    height: 70%;
+    background-color: #002c88;
+    color: #f5ff00;
+    border: 2px solid #f5ff00;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: 0.3s all;
+
+    &:hover{
+      color: #002c88;
+      border: 2px solid #002c88;
+      background-color: #f5ff00;
+    }
+  }
+
+  .active{
+    color: #002c88;
+    border: 2px solid #002c88;
+    background-color: #f5ff00;
+  }
+}
