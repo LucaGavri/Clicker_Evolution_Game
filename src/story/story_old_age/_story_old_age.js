@@ -14,36 +14,41 @@ class Story_Old_Age extends Component {
 
     render() {
         return (
-            <div className="story_old_age">
-                <div className="story13 story_style">
-                    <img src={story13} alt="mesopotamia"/>
-                    <p className="locked">locked</p>
-                    <p className="unlocked">unlocked</p>
+            <div className="story_old_age_all">
+                <div className="story_old_age_not">
+                    <p>you must unlock previous stages</p>
                 </div>
-                <div className="story14 story_style">
-                    <img src={story14} alt="egypt"/>
-                    <p className="locked">locked</p>
-                    <p className="unlocked">unlocked</p>
-                </div>
-                <div className="story15 story_style">
-                    <img src={story15} alt="greece"/>
-                    <p className="locked">locked</p>
-                    <p className="unlocked">unlocked</p>
-                </div>
-                <div className="story16 story_style">
-                    <img src={story16} alt="rome"/>
-                    <p className="locked">locked</p>
-                    <p className="unlocked">unlocked</p>
-                </div>
-                <div className="story17 story_style">
-                    <img src={story17} alt="middleages"/>
-                    <p className="locked">locked</p>
-                    <p className="unlocked">unlocked</p>
-                </div>
-                <div className="story18 story_style">
-                    <img src={story18} alt="newages"/>
-                    <p className="locked">locked</p>
-                    <p className="unlocked">unlocked</p>
+                <div className="story_old_age">
+                    <div className="story13 story_style">
+                        <img src={story13} alt="mesopotamia"/>
+                        <p className="locked">locked</p>
+                        <p className="unlocked">unlocked</p>
+                    </div>
+                    <div className="story14 story_style">
+                        <img src={story14} alt="egypt"/>
+                        <p className="locked">locked</p>
+                        <p className="unlocked">unlocked</p>
+                    </div>
+                    <div className="story15 story_style">
+                        <img src={story15} alt="greece"/>
+                        <p className="locked">locked</p>
+                        <p className="unlocked">unlocked</p>
+                    </div>
+                    <div className="story16 story_style">
+                        <img src={story16} alt="rome"/>
+                        <p className="locked">locked</p>
+                        <p className="unlocked">unlocked</p>
+                    </div>
+                    <div className="story17 story_style">
+                        <img src={story17} alt="middleages"/>
+                        <p className="locked">locked</p>
+                        <p className="unlocked">unlocked</p>
+                    </div>
+                    <div className="story18 story_style">
+                        <img src={story18} alt="newages"/>
+                        <p className="locked">locked</p>
+                        <p className="unlocked">unlocked</p>
+                    </div>
                 </div>
             </div>
         )
