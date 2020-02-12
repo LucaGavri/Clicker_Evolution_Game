@@ -1,4 +1,28 @@
 .counter{
-  height: 100%;
-  width: 30%;
+  height: 15%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .counter_txt{
+    color: #f5ff00;
+    text-transform: uppercase;
+    font-size: 30px;
+
+    .counter_input{
+      font-family: 'Sriracha', cursive;
+      width: 100px;
+      border: none;
+      background: none;
+      color: #f5ff00;
+      font-size: 35px;
+      text-align: center;
+
+      &:focus{
+        border: none;
+        outline: none;
+      }
+    }
+  }
 }

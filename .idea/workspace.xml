@@ -2,13 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1058f8e1-8c21-4d1a-8132-3bc66f276f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/era_switcher/_era_switcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/era_switcher/_era_switcher.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/10_rhino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/11_chimpaneze.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/12_australopithecus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/13_prehuman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/14_neolit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/15_mesopotamia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/16_egypt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/17_greece.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/18_rome.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/19_middleages.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/1_cell.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/20_newages.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/21_firstmachine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/22_moonlanding.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/23_now.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/24_moonstation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/25_marsstation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/26_venusstation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/27_solarsystem.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/28_firstcontact.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/29_milkyway.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/2_trilobite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/30_galacticgroup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/31_virgo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/32_universe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/3_placoderm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/4_amphibian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/5_reptile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/6_dimetrodon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/7_dinosaur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/8_mousy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/9_australosfenid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/story/story_first_life/_story_first_life.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/story/story_first_life/_story_first_life.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/story/story_future/_story_future.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/story/story_future/_story_future.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/story/story_mammals/_story_mammals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/story/story_mammals/_story_mammals.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/story/story_new_age/_story_new_age.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/story/story_new_age/_story_new_age.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/story/story_old_age/_story_old_age.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/story/story_old_age/_story_old_age.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/_game.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/_game.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/counter/_counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/counter/_counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/counter/_counter.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/counter/_counter.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/era/_era.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/era/_era.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/era/_era.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/era/_era.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/era_switcher/_era_switcher.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/era_switcher/_era_switcher.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/game_in/_game_in.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/game_in/_game_in.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/game_in/_game_in.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/game_in/_game_in.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/story/_story.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/_story.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/story/_story.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/_story.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tap/_tap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/tap/_tap.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,62 +73,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/game_in/_game_in.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/game_in/_game_in.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/game/_game.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/era_switcher/_era_switcher.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/era_switcher/_era_switcher.scss">
+        <entry file="file://$PROJECT_DIR$/src/counter/_counter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="299">
+              <caret line="13" column="85" selection-start-line="13" selection-start-column="85" selection-end-line="13" selection-end-column="85" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/story/_story.scss">
+        <entry file="file://$PROJECT_DIR$/src/counter/_counter.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="276">
+              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -115,21 +127,31 @@
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/game/_game.js" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/App.scss" />
-        <option value="$PROJECT_DIR$/src/story/_story.js" />
-        <option value="$PROJECT_DIR$/src/era/_era.js" />
-        <option value="$PROJECT_DIR$/src/era/_era.scss" />
-        <option value="$PROJECT_DIR$/src/counter/_counter.scss" />
-        <option value="$PROJECT_DIR$/src/counter/_counter.js" />
         <option value="$PROJECT_DIR$/src/tap/_tap.js" />
-        <option value="$PROJECT_DIR$/src/tap/_tap.scss" />
-        <option value="$PROJECT_DIR$/src/story/_story.scss" />
-        <option value="$PROJECT_DIR$/src/game_in/_game_in.js" />
         <option value="$PROJECT_DIR$/src/era_switcher/_era_switcher.js" />
-        <option value="$PROJECT_DIR$/src/game_in/_game_in.scss" />
         <option value="$PROJECT_DIR$/src/game/_game.scss" />
         <option value="$PROJECT_DIR$/src/era_switcher/_era_switcher.scss" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/game_in/_game_in.js" />
+        <option value="$PROJECT_DIR$/src/game_in/_game_in.scss" />
+        <option value="$PROJECT_DIR$/src/tap/_tap.scss" />
+        <option value="$PROJECT_DIR$/src/era/_era.js" />
+        <option value="$PROJECT_DIR$/src/era/_era.scss" />
+        <option value="$PROJECT_DIR$/src/story/story_first_life/_story_first_life.scss" />
+        <option value="$PROJECT_DIR$/src/story/story_first_life/_story_first_life.js" />
+        <option value="$PROJECT_DIR$/src/story/_story.scss" />
+        <option value="$PROJECT_DIR$/src/story/story_mammals/_story_mammals.js" />
+        <option value="$PROJECT_DIR$/src/story/story_mammals/_story_mammals.scss" />
+        <option value="$PROJECT_DIR$/src/story/story_old_age/_story_old_age.js" />
+        <option value="$PROJECT_DIR$/src/story/story_old_age/_story_old_age.scss" />
+        <option value="$PROJECT_DIR$/src/story/story_new_age/_story_new_age.scss" />
+        <option value="$PROJECT_DIR$/src/story/story_new_age/_story_new_age.js" />
+        <option value="$PROJECT_DIR$/src/story/story_future/_story_future.js" />
+        <option value="$PROJECT_DIR$/src/story/story_future/_story_future.scss" />
+        <option value="$PROJECT_DIR$/src/story/_story.js" />
+        <option value="$PROJECT_DIR$/src/counter/_counter.scss" />
+        <option value="$PROJECT_DIR$/src/counter/_counter.js" />
       </list>
     </option>
   </component>
@@ -155,18 +177,7 @@
             <path>
               <item name="Clicker_Evolution_Game" type="b2602c69:ProjectViewProjectNode" />
               <item name="Clicker_Evolution_Game" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Clicker_Evolution_Game" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Clicker_Evolution_Game" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Clicker_Evolution_Game" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Clicker_Evolution_Game" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="game" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,7 +189,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -189,6 +200,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/docs/static" />
       <recent name="$PROJECT_DIR$/src/images" />
       <recent name="$PROJECT_DIR$/src/8bitfont" />
     </key>
@@ -234,18 +246,19 @@
       <workItem from="1568213527440" duration="2108000" />
       <workItem from="1581431957264" duration="306000" />
       <workItem from="1581434390862" duration="7933000" />
-      <workItem from="1581447313901" duration="3613000" />
+      <workItem from="1581447313901" duration="4345000" />
+      <workItem from="1581459528073" duration="12246000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128520000" />
+    <option name="totallyTimeSpent" value="141498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1598746" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18808778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24920635" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -258,14 +271,14 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.07654723" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.06840391" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32938856" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1598746" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18808778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24920635" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -278,7 +291,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.15635179" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.06840391" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32938856" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -289,12 +302,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/8bitfont/specimen_files/grid_12-825-55-15.css" />
-    <entry file="file://$PROJECT_DIR$/src/8bitfont/stylesheet.css" />
-    <entry file="file://$PROJECT_DIR$/src/images/photo1.jpeg" />
-    <entry file="file://$PROJECT_DIR$/src/data/data.json" />
-    <entry file="file://$PROJECT_DIR$/src/marquee/_marquee.js" />
-    <entry file="file://$PROJECT_DIR$/src/marquee/_marquee.scss" />
     <entry file="file://$PROJECT_DIR$/src/footer/_footer.scss" />
     <entry file="file://$PROJECT_DIR$/src/footer/_footer.js" />
     <entry file="file://$PROJECT_DIR$/src/slider/_slider.scss" />
@@ -365,71 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/story/_story.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/era/_era.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/era/_era.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/counter/_counter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/counter/_counter.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tap/_tap.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -460,10 +402,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/era_switcher/_era_switcher.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="10" selection-start-line="14" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/era_switcher/_era_switcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/game_in/_game_in.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        <state relative-caret-position="407">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tap/_tap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/era/_era.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/era/_era.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="60" column="17" lean-forward="true" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/story_first_life/_story_first_life.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/story_first_life/_story_first_life.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -472,15 +485,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/story/_story.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="120">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/era_switcher/_era_switcher.js">
+    <entry file="file://$PROJECT_DIR$/src/story/story_mammals/_story_mammals.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="96">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/story_mammals/_story_mammals.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/story_old_age/_story_old_age.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="53" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/story_old_age/_story_old_age.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/story_new_age/_story_new_age.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/story_future/_story_future.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/story_future/_story_future.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="984">
+          <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/story_new_age/_story_new_age.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/_story.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -489,22 +567,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/game_in/_game_in.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        <state relative-caret-position="168">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/game/_game.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="60" />
+        <state relative-caret-position="96">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/era_switcher/_era_switcher.scss">
+    <entry file="file://$PROJECT_DIR$/src/counter/_counter.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state relative-caret-position="276">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/counter/_counter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="85" selection-start-line="13" selection-start-column="85" selection-end-line="13" selection-end-column="85" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

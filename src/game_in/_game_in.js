@@ -21,10 +21,8 @@ class Game_In extends Component {
                     <Story/>
                 </div>
                 <div className="era_counter_tap">
-                    <div className="era_counter">
-                        <Era/>
-                        <Counter/>
-                    </div>
+                    <Era/>
+                    <Counter/>
                     <Tap/>
                 </div>
             </div>

@@ -9,7 +9,11 @@ class Counter extends Component {
     render() {
         return (
             <div className="counter">
-
+                <p className="counter_txt">
+                    you have
+                    <input className="counter_input" type="text" value="100" readonly/>
+                     points !
+                </p>
             </div>
         )
     }

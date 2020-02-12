@@ -1,0 +1,51 @@
+.story_first_life {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+
+  .story_style {
+    width: 30%;
+    height: 40%;
+    border: 3px solid #f5ff00;
+    border-radius: 23px;
+    box-shadow: 5px 5px 10px #282626;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    cursor: pointer;
+    transition: 0.3s all;
+
+    &:hover {
+      box-shadow: 0 0 10px #f5ff00;
+    }
+
+    img {
+      width: 100%;
+      border-bottom: 2px solid #f5ff00;
+      border-radius: 20px 20px 0 0;
+    }
+
+    .locked{
+      margin: 0;
+      display: block;
+      text-transform: uppercase;
+      font-weight: bold;
+      color: #ff0b00;
+    }
+
+    .unlocked{
+      margin: 0;
+      display: none;
+      text-transform: uppercase;
+      font-weight: bold;
+      color: #00aa0c;
+    }
+  }
+
+  .story1{
+  }
+}
