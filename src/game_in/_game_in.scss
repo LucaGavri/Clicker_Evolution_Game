@@ -1,7 +1,7 @@
 .game_in{
   width: 95%;
   height: 95%;
-  border: 4px solid rgba(255, 255, 255, 0.59);
+  border: 3px solid #f5ff00;
   border-radius: 25px;
   display: flex;
   justify-content: space-around;
@@ -10,7 +10,8 @@
   .title_story{
     height: 95%;
     width: 58%;
-    border: 2px solid #00aef3;
+    border: 2px solid #f5ff00;
+    border-radius: 23px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -20,7 +21,6 @@
       font-family: 'Bangers', cursive;
       width: 100%;
       height: 15%;
-      border: 1px solid #ff0b00;
       color: #f5ff00;
       font-size: 75px;
       letter-spacing: 1px;
@@ -36,7 +36,8 @@
   .era_counter_tap{
     height: 95%;
     width: 40%;
-    border: 2px solid #b4861f;
+    border: 2px solid #f5ff00;
+    border-radius: 23px;
     display: flex;
     flex-direction: column;
     justify-content: center;

@@ -9,10 +9,66 @@ import story6 from '../../images/7_dinosaur.jpg';
 
 class Story_First_Life extends Component {
     componentDidMount() {
+        const story1 = document.querySelector('.story1');
+        const story2 = document.querySelector('.story2');
+        const story3 = document.querySelector('.story3');
+        const story4 = document.querySelector('.story4');
+        const story5 = document.querySelector('.story5');
+        const story6 = document.querySelector('.story6');
+
+        //story1
+        story1.addEventListener('click', function (e) {
+            (e).preventDefault();
+            story2.style.visibility = "inherit";
+            story1.querySelector('.locked').style.display = "none";
+            story1.querySelector('.unlocked').style.display = "block";
+        });
+
+        //story2
+        story2.addEventListener('click', function (e) {
+            (e).preventDefault();
+            story3.style.visibility = "inherit";
+            story2.querySelector('.locked').style.display = "none";
+            story2.querySelector('.unlocked').style.display = "block";
+        });
+
+        //story3
+        story3.addEventListener('click', function (e) {
+            (e).preventDefault();
+            story4.style.visibility = "inherit";
+            story3.querySelector('.locked').style.display = "none";
+            story3.querySelector('.unlocked').style.display = "block";
+        });
+
+        //story4
+        story4.addEventListener('click', function (e) {
+            (e).preventDefault();
+            story5.style.visibility = "inherit";
+            story4.querySelector('.locked').style.display = "none";
+            story4.querySelector('.unlocked').style.display = "block";
+        });
+
+        //story5
+        story5.addEventListener('click', function (e) {
+            (e).preventDefault();
+            story6.style.visibility = "inherit";
+            story5.querySelector('.locked').style.display = "none";
+            story5.querySelector('.unlocked').style.display = "block";
+        });
+
+        //story6
+        story6.addEventListener('click', function (e) {
+            (e).preventDefault();
+            // story7.style.visibility="inherit";
+            story6.querySelector('.locked').style.display = "none";
+            story6.querySelector('.unlocked').style.display = "block";
+        })
+
     }
 
     render() {
         return (
+            <div className="story_first_life_all">
                 <div className="story_first_life">
                     <div className="story1 story_style">
                         <img src={story1} alt="cell"/>
@@ -45,6 +101,10 @@ class Story_First_Life extends Component {
                         <p className="unlocked">unlocked</p>
                     </div>
                 </div>
+                <div className="story_first_life_next">
+                    <p>congrats! go to next era</p>
+                </div>
+            </div>
         )
     }
 }
