@@ -62,6 +62,7 @@ class Story_First_Life extends Component {
             // story7.style.visibility="inherit";
             story6.querySelector('.locked').style.display = "none";
             story6.querySelector('.unlocked').style.display = "block";
+            document.querySelector('.story_first_life_next').style.display = "flex";
         })
 
     }
