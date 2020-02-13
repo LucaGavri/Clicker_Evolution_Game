@@ -3,11 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="1058f8e1-8c21-4d1a-8132-3bc66f276f45" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/era/_era.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/era/_era.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/era/_era.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/era/_era.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/era_switcher/_era_switcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/era_switcher/_era_switcher.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/era_switcher/_era_switcher.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/era_switcher/_era_switcher.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/story/story_first_life/_story_first_life.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/story_first_life/_story_first_life.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/story/story_future/_story_future.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/story_future/_story_future.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/story/story_future/_story_future.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/story_future/_story_future.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/story/story_mammals/_story_mammals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/story_mammals/_story_mammals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/story/story_mammals/_story_mammals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/story_mammals/_story_mammals.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/story/story_new_age/_story_new_age.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/story_new_age/_story_new_age.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/story/story_new_age/_story_new_age.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/story_new_age/_story_new_age.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/story/story_old_age/_story_old_age.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/story_old_age/_story_old_age.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/story/story_old_age/_story_old_age.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/story_old_age/_story_old_age.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tap/_tap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tap/_tap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tap/_tap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/tap/_tap.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,41 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/era_switcher/_era_switcher.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/story/story_first_life/_story_first_life.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="74" column="48" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="48" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/story/story_first_life/_story_first_life.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="987">
-              <caret line="50" column="7" lean-forward="true" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/story/story_mammals/_story_mammals.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            <state relative-caret-position="226">
+              <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -67,10 +42,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/story/story_mammals/_story_mammals.scss">
+        <entry file="file://$PROJECT_DIR$/src/story/story_future/_story_future.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="178">
+              <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/era_switcher/_era_switcher.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="194" column="19" lean-forward="true" selection-start-line="194" selection-start-column="19" selection-end-line="194" selection-end-column="19" />
+            <state relative-caret-position="216">
+              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -120,28 +98,28 @@
         <option value="$PROJECT_DIR$/src/App.scss" />
         <option value="$PROJECT_DIR$/src/game/_game.scss" />
         <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/src/era/_era.js" />
         <option value="$PROJECT_DIR$/src/story/_story.js" />
         <option value="$PROJECT_DIR$/src/counter/_counter.js" />
-        <option value="$PROJECT_DIR$/src/tap/_tap.js" />
-        <option value="$PROJECT_DIR$/src/story/story_old_age/_story_old_age.js" />
-        <option value="$PROJECT_DIR$/src/story/story_old_age/_story_old_age.scss" />
-        <option value="$PROJECT_DIR$/src/story/story_new_age/_story_new_age.js" />
-        <option value="$PROJECT_DIR$/src/story/story_new_age/_story_new_age.scss" />
-        <option value="$PROJECT_DIR$/src/story/story_future/_story_future.js" />
-        <option value="$PROJECT_DIR$/src/story/story_future/_story_future.scss" />
         <option value="$PROJECT_DIR$/src/story/_story.scss" />
         <option value="$PROJECT_DIR$/src/counter/_counter.scss" />
         <option value="$PROJECT_DIR$/src/game_in/_game_in.scss" />
         <option value="$PROJECT_DIR$/src/game_in/_game_in.js" />
+        <option value="$PROJECT_DIR$/src/story/story_first_life/_story_first_life.scss" />
+        <option value="$PROJECT_DIR$/src/story/story_first_life/_story_first_life.js" />
+        <option value="$PROJECT_DIR$/src/story/story_mammals/_story_mammals.scss" />
+        <option value="$PROJECT_DIR$/src/story/story_old_age/_story_old_age.js" />
+        <option value="$PROJECT_DIR$/src/story/story_old_age/_story_old_age.scss" />
+        <option value="$PROJECT_DIR$/src/story/story_new_age/_story_new_age.js" />
+        <option value="$PROJECT_DIR$/src/story/story_new_age/_story_new_age.scss" />
+        <option value="$PROJECT_DIR$/src/era_switcher/_era_switcher.scss" />
+        <option value="$PROJECT_DIR$/src/story/story_future/_story_future.scss" />
+        <option value="$PROJECT_DIR$/src/tap/_tap.js" />
         <option value="$PROJECT_DIR$/src/tap/_tap.scss" />
         <option value="$PROJECT_DIR$/src/era/_era.scss" />
-        <option value="$PROJECT_DIR$/src/story/story_first_life/_story_first_life.scss" />
-        <option value="$PROJECT_DIR$/src/era_switcher/_era_switcher.scss" />
-        <option value="$PROJECT_DIR$/src/story/story_first_life/_story_first_life.js" />
+        <option value="$PROJECT_DIR$/src/era/_era.js" />
         <option value="$PROJECT_DIR$/src/story/story_mammals/_story_mammals.js" />
         <option value="$PROJECT_DIR$/src/era_switcher/_era_switcher.js" />
-        <option value="$PROJECT_DIR$/src/story/story_mammals/_story_mammals.scss" />
+        <option value="$PROJECT_DIR$/src/story/story_future/_story_future.js" />
       </list>
     </option>
   </component>
@@ -181,7 +159,13 @@
               <item name="Clicker_Evolution_Game" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="story" type="462c0819:PsiDirectoryNode" />
-              <item name="story_mammals" type="462c0819:PsiDirectoryNode" />
+              <item name="story_future" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Clicker_Evolution_Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Clicker_Evolution_Game" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tap" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -253,12 +237,13 @@
       <workItem from="1581459528073" duration="12620000" />
       <workItem from="1581522858174" duration="440000" />
       <workItem from="1581541245200" duration="10795000" />
-      <workItem from="1581607788534" duration="5592000" />
+      <workItem from="1581607788534" duration="5850000" />
+      <workItem from="1581619108906" duration="6473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158699000" />
+    <option name="totallyTimeSpent" value="165430000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -277,7 +262,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.12052117" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.104234524" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32938856" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -297,7 +282,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.12052117" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.104234524" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32938856" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -407,27 +392,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/era/_era.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/game/_game.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -438,67 +406,6 @@
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tap/_tap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="27" column="48" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/story/story_old_age/_story_old_age.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/story/story_old_age/_story_old_age.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/story/story_new_age/_story_new_age.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="22" column="63" lean-forward="true" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/story/story_new_age/_story_new_age.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/story/story_future/_story_future.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/story/story_future/_story_future.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -513,13 +420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tap/_tap.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -540,13 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/era/_era.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/story/_story.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
@@ -557,34 +450,123 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/era_switcher/_era_switcher.scss">
+    <entry file="file://$PROJECT_DIR$/src/story/story_first_life/_story_first_life.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="194" column="19" lean-forward="true" selection-start-line="194" selection-start-column="19" selection-end-line="194" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/story/story_first_life/_story_first_life.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="987">
-          <caret line="50" column="7" lean-forward="true" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/story/story_mammals/_story_mammals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="1608">
+          <caret line="74" column="48" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="48" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/story/story_first_life/_story_first_life.js">
+    <entry file="file://$PROJECT_DIR$/src/story/story_first_life/_story_first_life.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="74" column="48" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="48" />
+        <state relative-caret-position="1200">
+          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/story_mammals/_story_mammals.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-706">
+          <caret line="50" column="23" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/story_old_age/_story_old_age.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-614">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="92" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/story_new_age/_story_new_age.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/story_old_age/_story_old_age.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/story_new_age/_story_new_age.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="70" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/story_future/_story_future.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="91" column="22" lean-forward="true" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tap/_tap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tap/_tap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="107" column="24" lean-forward="true" selection-start-line="107" selection-start-column="24" selection-end-line="107" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/era_switcher/_era_switcher.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/story_mammals/_story_mammals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/era/_era.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/era/_era.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -593,18 +575,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/era_switcher/_era_switcher.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="226">
+          <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/story/story_mammals/_story_mammals.scss">
+    <entry file="file://$PROJECT_DIR$/src/story/story_future/_story_future.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="178">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

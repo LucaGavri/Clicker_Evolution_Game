@@ -10,14 +10,70 @@ import story24 from '../../images/27_solarsystem.jpg'
 
 class Story_New_Age extends Component {
     componentDidMount() {
+
+        const story19 = document.querySelector('.story19');
+        const story20 = document.querySelector('.story20');
+        const story21 = document.querySelector('.story21');
+        const story22 = document.querySelector('.story22');
+        const story23 = document.querySelector('.story23');
+        const story24 = document.querySelector('.story24');
+
+        //story19
+        story19.addEventListener('click', function (e) {
+            (e).preventDefault();
+            story20.style.visibility = "inherit";
+            story19.querySelector('.locked').style.display = "none";
+            story19.querySelector('.unlocked').style.display = "block";
+        });
+
+        //story20
+        story20.addEventListener('click', function (e) {
+            (e).preventDefault();
+            story21.style.visibility = "inherit";
+            story20.querySelector('.locked').style.display = "none";
+            story20.querySelector('.unlocked').style.display = "block";
+        });
+
+        //story21
+        story21.addEventListener('click', function (e) {
+            (e).preventDefault();
+            story22.style.visibility = "inherit";
+            story21.querySelector('.locked').style.display = "none";
+            story21.querySelector('.unlocked').style.display = "block";
+        });
+
+        //story22
+        story22.addEventListener('click', function (e) {
+            (e).preventDefault();
+            story23.style.visibility = "inherit";
+            story22.querySelector('.locked').style.display = "none";
+            story22.querySelector('.unlocked').style.display = "block";
+        });
+
+        //story23
+        story23.addEventListener('click', function (e) {
+            (e).preventDefault();
+            story24.style.visibility = "inherit";
+            story23.querySelector('.locked').style.display = "none";
+            story23.querySelector('.unlocked').style.display = "block";
+        });
+
+        //story24
+        story24.addEventListener('click', function (e) {
+            (e).preventDefault();
+            story24.querySelector('.locked').style.display = "none";
+            story24.querySelector('.unlocked').style.display = "block";
+            document.querySelector('.story_new_age_next').style.display = "flex";
+            document.querySelector('.new_age_switcher_normal').style.display = "none";
+            document.querySelector('.new_age_switcher_finished').style.display = "flex";
+            document.querySelector('.future_switcher_locked').style.display = "none";
+            document.querySelector('.future_switcher_normal').style.display = "flex";
+        });
     }
 
     render() {
         return (
             <div className="story_new_age_all">
-                <div className="story_new_age_not">
-                    <p>you must unlock previous stages</p>
-                </div>
                 <div className="story_new_age">
                     <div className="story19 story_style">
                         <img src={story19} alt="firstmachine"/>
@@ -49,6 +105,9 @@ class Story_New_Age extends Component {
                         <p className="locked">locked</p>
                         <p className="unlocked">unlocked</p>
                     </div>
+                </div>
+                <div className="story_new_age_next">
+                    <p>congrats! go to next era</p>
                 </div>
             </div>
         )

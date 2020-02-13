@@ -16,6 +16,7 @@ class Story_Mammals extends Component {
         const story11 = document.querySelector('.story11');
         const story12 = document.querySelector('.story12');
 
+
         //story7
         story7.addEventListener('click', function (e) {
             (e).preventDefault();
@@ -64,9 +65,9 @@ class Story_Mammals extends Component {
             document.querySelector('.story_mammals_next').style.display = "flex";
             document.querySelector('.mammals_switcher_normal').style.display = "none";
             document.querySelector('.mammals_switcher_finished').style.display = "flex";
-            document.querySelector('.old_era_switcher_locked').style.display = "none";
-            document.querySelector('.old_era_switcher_normal').style.display = "flex";
-        })
+            document.querySelector('.old_age_switcher_locked').style.display = "none";
+            document.querySelector('.old_age_switcher_normal').style.display = "flex";
+        });
 
     }
 

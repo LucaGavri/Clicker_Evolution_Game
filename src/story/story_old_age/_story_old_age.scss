@@ -2,25 +2,12 @@
   width: 100%;
   height: 100%;
   display: none;
-
-  .story_old_age_not {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-    p {
-      color: #f5ff00;
-      font-size: 35px;
-      text-transform: uppercase;
-    }
-  }
+  position: relative;
 
   .story_old_age {
     width: 100%;
     height: 100%;
-    display: none;
+    display: flex;
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
@@ -65,7 +52,45 @@
       }
     }
 
-    .story13 {
+    .story14 {
+      visibility: hidden;
+    }
+
+    .story15 {
+      visibility: hidden;
+    }
+
+    .story16 {
+      visibility: hidden;
+    }
+
+    .story17 {
+      visibility: hidden;
+    }
+
+    .story18 {
+      visibility: hidden;
+    }
+  }
+
+  .story_old_age_next {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.85);
+    border-radius: 0 0 23px 23px;
+
+    p {
+      color: #f5ff00;
+      font-size: 45px;
+      text-transform: uppercase;
     }
   }
 }
+
+

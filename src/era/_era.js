@@ -15,11 +15,11 @@ class Era extends Component {
                 <div className="era_mammals">
                     mammals era
                 </div>
-                <div className="era_old_era">
-                    old era
+                <div className="era_old_age">
+                    old ages
                 </div>
-                <div className="era_new_era">
-                    new era
+                <div className="era_new_age">
+                    new ages
                 </div>
                 <div className="era_future">
                     future

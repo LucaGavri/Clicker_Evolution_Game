@@ -19,14 +19,14 @@ class Tap extends Component {
                 <div className="tap_mammals">
                     <img className="tap_mammals_img" src={mammalsImg} alt="mammals"/>
                 </div>
-                <div className="tap_ancient_to_now">
-                    <img className="tap_ancient_to_now_img" src={ancientToNowImg} alt="ancientToNow"/>
+                <div className="tap_old_age">
+                    <img className="tap_old_age_img" src={ancientToNowImg} alt="oldAge"/>
                 </div>
-                <div className="tap_now_to_space">
-                    <img className="tap_now_to_space_img" src={nowToSpaceImg} alt="nowToSpace"/>
+                <div className="tap_new_age">
+                    <img className="tap_new_age_img" src={nowToSpaceImg} alt="newAge"/>
                 </div>
-                <div className="tap_human_future">
-                    <img className="tap_human_future_img" src={humanFutureImg} alt="humanFuture"/>
+                <div className="tap_future">
+                    <img className="tap_future_img" src={humanFutureImg} alt="future"/>
                 </div>
             </div>
         )
