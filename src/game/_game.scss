@@ -5,4 +5,50 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  position: relative;
+
+  .end {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background-image: url("../images/6finish.jpg");
+    background-size: 100vw;
+
+    p {
+      font-family: 'Bangers', cursive;
+      color: #f5ff00;
+      font-size: 65px;
+      letter-spacing: 1px;
+      text-shadow: 5px 5px 10px #282626;
+      -webkit-text-stroke-width: 3px;
+      -webkit-text-stroke-color: #000656;
+    }
+
+    .restart{
+      font-family: 'Sriracha', cursive;
+      width: 110px;
+      height: 50px;
+      color: #f5ff00;
+      background-color: #002c88;
+      font-size: 18px;
+      text-transform: uppercase;
+      border-radius: 30px;
+      border: 3px solid #f5ff00;
+      box-shadow: 5px 5px 10px #282626;
+      transition: 0.4s all;
+      cursor: pointer;
+
+      &:hover{
+        color: #002c88;
+        background-color: #f5ff00;
+        border: 3px solid #002c88;
+      }
+    }
+  }
 }

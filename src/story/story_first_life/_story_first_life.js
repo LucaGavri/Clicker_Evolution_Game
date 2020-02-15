@@ -16,58 +16,71 @@ class Story_First_Life extends Component {
         const story5 = document.querySelector('.story5');
         const story6 = document.querySelector('.story6');
 
+        const counter_to_first_life_story = document.querySelector('.counter_input');
+
         //story1
         story1.addEventListener('click', function (e) {
             (e).preventDefault();
-            story2.style.visibility = "inherit";
-            story1.querySelector('.locked').style.display = "none";
-            story1.querySelector('.unlocked').style.display = "block";
+            if(counter_to_first_life_story.value >= 10) {
+                story2.style.visibility = "inherit";
+                story1.querySelector('.locked').style.display = "none";
+                story1.querySelector('.unlocked').style.display = "block";
+            }
         });
 
         //story2
         story2.addEventListener('click', function (e) {
             (e).preventDefault();
-            story3.style.visibility = "inherit";
-            story2.querySelector('.locked').style.display = "none";
-            story2.querySelector('.unlocked').style.display = "block";
+            if(counter_to_first_life_story.value >= 30) {
+                story3.style.visibility = "inherit";
+                story2.querySelector('.locked').style.display = "none";
+                story2.querySelector('.unlocked').style.display = "block";
+            }
         });
 
         //story3
         story3.addEventListener('click', function (e) {
             (e).preventDefault();
-            story4.style.visibility = "inherit";
-            story3.querySelector('.locked').style.display = "none";
-            story3.querySelector('.unlocked').style.display = "block";
+            if(counter_to_first_life_story.value >= 50) {
+                story4.style.visibility = "inherit";
+                story3.querySelector('.locked').style.display = "none";
+                story3.querySelector('.unlocked').style.display = "block";
+            }
         });
 
         //story4
         story4.addEventListener('click', function (e) {
             (e).preventDefault();
-            story5.style.visibility = "inherit";
-            story4.querySelector('.locked').style.display = "none";
-            story4.querySelector('.unlocked').style.display = "block";
+            if(counter_to_first_life_story.value >= 80) {
+                story5.style.visibility = "inherit";
+                story4.querySelector('.locked').style.display = "none";
+                story4.querySelector('.unlocked').style.display = "block";
+            }
         });
 
         //story5
         story5.addEventListener('click', function (e) {
             (e).preventDefault();
-            story6.style.visibility = "inherit";
-            story5.querySelector('.locked').style.display = "none";
-            story5.querySelector('.unlocked').style.display = "block";
+            if(counter_to_first_life_story.value >= 110) {
+                story6.style.visibility = "inherit";
+                story5.querySelector('.locked').style.display = "none";
+                story5.querySelector('.unlocked').style.display = "block";
+            }
         });
 
         //story6
         story6.addEventListener('click', function (e) {
             (e).preventDefault();
-            // story7.style.visibility="inherit";
-            story6.querySelector('.locked').style.display = "none";
-            story6.querySelector('.unlocked').style.display = "block";
-            document.querySelector('.story_first_life_next').style.display = "flex";
-            document.querySelector('.first_life_switcher_normal').style.display = "none";
-            document.querySelector('.first_life_switcher_finished').style.display = "flex";
-            document.querySelector('.mammals_switcher_locked').style.display = "none";
-            document.querySelector('.mammals_switcher_normal').style.display = "flex";
-        })
+            if(counter_to_first_life_story.value >= 140) {
+                story6.querySelector('.locked').style.display = "none";
+                story6.querySelector('.unlocked').style.display = "block";
+                document.querySelector('.story_first_life_next').style.display = "flex";
+                document.querySelector('.first_life_switcher_normal').style.display = "none";
+                document.querySelector('.first_life_switcher_finished').style.display = "flex";
+                document.querySelector('.mammals_switcher_locked').style.display = "none";
+                document.querySelector('.mammals_switcher_normal').style.display = "flex";
+            }
+        });
     }
 
     render() {
@@ -76,33 +89,33 @@ class Story_First_Life extends Component {
                 <div className="story_first_life">
                     <div className="story1 story_style">
                         <img src={story1} alt="cell"/>
-                        <p className="locked">locked</p>
-                        <p className="unlocked">unlocked</p>
+                        <p className="locked">10 pts</p>
+                        <p className="unlocked">cell</p>
                     </div>
                     <div className="story2 story_style">
                         <img src={story2} alt="trilobyte"/>
-                        <p className="locked">locked</p>
-                        <p className="unlocked">unlocked</p>
+                        <p className="locked">30 pts</p>
+                        <p className="unlocked">trilobyte</p>
                     </div>
                     <div className="story3 story_style">
                         <img src={story3} alt="placoderm"/>
-                        <p className="locked">locked</p>
-                        <p className="unlocked">unlocked</p>
+                        <p className="locked">50 pts</p>
+                        <p className="unlocked">placoderm</p>
                     </div>
                     <div className="story4 story_style">
                         <img src={story4} alt="amphibian"/>
-                        <p className="locked">locked</p>
-                        <p className="unlocked">unlocked</p>
+                        <p className="locked">80 pts</p>
+                        <p className="unlocked">amphibian</p>
                     </div>
                     <div className="story5 story_style">
                         <img src={story5} alt="reptile"/>
-                        <p className="locked">locked</p>
-                        <p className="unlocked">unlocked</p>
+                        <p className="locked">110 pts</p>
+                        <p className="unlocked">reptile</p>
                     </div>
                     <div className="story6 story_style">
                         <img src={story6} alt="dinosaur"/>
-                        <p className="locked">locked</p>
-                        <p className="unlocked">unlocked</p>
+                        <p className="locked">140 pts</p>
+                        <p className="unlocked">dinosaur</p>
                     </div>
                 </div>
                 <div className="story_first_life_next">

@@ -8,6 +8,41 @@ import humanFutureImg from '../images/5humanfuture.jpg';
 
 class Tap extends Component {
     componentDidMount() {
+
+        const tap_first_life = document.querySelector('.tap_first_life_img');
+        const tap_mammals = document.querySelector('.tap_mammals_img');
+        const tap_old_age = document.querySelector('.tap_old_age_img');
+        const tap_new_age = document.querySelector('.tap_new_age_img');
+        const tap_future = document.querySelector('.tap_future_img');
+
+        const counter_to_tap = document.querySelector('.counter_input');
+
+
+
+        tap_first_life.addEventListener('click', function (e) {
+            (e).preventDefault();
+            counter_to_tap.stepUp(1);
+        });
+
+        tap_mammals.addEventListener('click', function (e) {
+            (e).preventDefault();
+            counter_to_tap.stepUp(2);
+        });
+
+        tap_old_age.addEventListener('click', function (e) {
+            (e).preventDefault();
+            counter_to_tap.stepUp(3);
+        });
+
+        tap_new_age.addEventListener('click', function (e) {
+            (e).preventDefault();
+            counter_to_tap.stepUp(5);
+        });
+
+        tap_future.addEventListener('click', function (e) {
+            (e).preventDefault();
+            counter_to_tap.stepUp(10);
+        });
     }
 
     render() {

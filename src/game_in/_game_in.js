@@ -25,6 +25,7 @@ class Game_In extends Component {
                     <Era/>
                     <Tap/>
                 </div>
+
             </div>
         )
     }

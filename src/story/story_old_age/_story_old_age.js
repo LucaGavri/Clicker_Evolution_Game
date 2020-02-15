@@ -18,56 +18,70 @@ class Story_Old_Age extends Component {
         const story17 = document.querySelector('.story17');
         const story18 = document.querySelector('.story18');
 
+        const counter_to_old_age_story = document.querySelector('.counter_input');
+
         //story13
         story13.addEventListener('click', function (e) {
             (e).preventDefault();
-            story14.style.visibility = "inherit";
-            story13.querySelector('.locked').style.display = "none";
-            story13.querySelector('.unlocked').style.display = "block";
+            if(counter_to_old_age_story.value >= 610) {
+                story14.style.visibility = "inherit";
+                story13.querySelector('.locked').style.display = "none";
+                story13.querySelector('.unlocked').style.display = "block";
+            }
         });
 
         //story14
         story14.addEventListener('click', function (e) {
             (e).preventDefault();
-            story15.style.visibility = "inherit";
-            story14.querySelector('.locked').style.display = "none";
-            story14.querySelector('.unlocked').style.display = "block";
+            if(counter_to_old_age_story.value >= 700) {
+                story15.style.visibility = "inherit";
+                story14.querySelector('.locked').style.display = "none";
+                story14.querySelector('.unlocked').style.display = "block";
+            }
         });
 
         //story15
         story15.addEventListener('click', function (e) {
             (e).preventDefault();
-            story16.style.visibility = "inherit";
-            story15.querySelector('.locked').style.display = "none";
-            story15.querySelector('.unlocked').style.display = "block";
+            if(counter_to_old_age_story.value >= 790) {
+                story16.style.visibility = "inherit";
+                story15.querySelector('.locked').style.display = "none";
+                story15.querySelector('.unlocked').style.display = "block";
+            }
         });
 
         //story16
         story16.addEventListener('click', function (e) {
             (e).preventDefault();
-            story17.style.visibility = "inherit";
-            story16.querySelector('.locked').style.display = "none";
-            story16.querySelector('.unlocked').style.display = "block";
+            if(counter_to_old_age_story.value >= 880) {
+                story17.style.visibility = "inherit";
+                story16.querySelector('.locked').style.display = "none";
+                story16.querySelector('.unlocked').style.display = "block";
+            }
         });
 
         //story17
         story17.addEventListener('click', function (e) {
             (e).preventDefault();
-            story18.style.visibility = "inherit";
-            story17.querySelector('.locked').style.display = "none";
-            story17.querySelector('.unlocked').style.display = "block";
+            if(counter_to_old_age_story.value >= 970) {
+                story18.style.visibility = "inherit";
+                story17.querySelector('.locked').style.display = "none";
+                story17.querySelector('.unlocked').style.display = "block";
+            }
         });
 
         //story18
         story18.addEventListener('click', function (e) {
             (e).preventDefault();
-            story18.querySelector('.locked').style.display = "none";
-            story18.querySelector('.unlocked').style.display = "block";
-            document.querySelector('.story_old_age_next').style.display = "flex";
-            document.querySelector('.old_age_switcher_normal').style.display = "none";
-            document.querySelector('.old_age_switcher_finished').style.display = "flex";
-            document.querySelector('.new_age_switcher_locked').style.display = "none";
-            document.querySelector('.new_age_switcher_normal').style.display = "flex";
+            if(counter_to_old_age_story.value >= 1100) {
+                story18.querySelector('.locked').style.display = "none";
+                story18.querySelector('.unlocked').style.display = "block";
+                document.querySelector('.story_old_age_next').style.display = "flex";
+                document.querySelector('.old_age_switcher_normal').style.display = "none";
+                document.querySelector('.old_age_switcher_finished').style.display = "flex";
+                document.querySelector('.new_age_switcher_locked').style.display = "none";
+                document.querySelector('.new_age_switcher_normal').style.display = "flex";
+            }
         });
 
     }
@@ -78,33 +92,33 @@ class Story_Old_Age extends Component {
                 <div className="story_old_age">
                     <div className="story13 story_style">
                         <img src={story13} alt="mesopotamia"/>
-                        <p className="locked">locked</p>
-                        <p className="unlocked">unlocked</p>
+                        <p className="locked">610 pts</p>
+                        <p className="unlocked">mesopotamia</p>
                     </div>
                     <div className="story14 story_style">
                         <img src={story14} alt="egypt"/>
-                        <p className="locked">locked</p>
-                        <p className="unlocked">unlocked</p>
+                        <p className="locked">700 pts</p>
+                        <p className="unlocked">egypt</p>
                     </div>
                     <div className="story15 story_style">
                         <img src={story15} alt="greece"/>
-                        <p className="locked">locked</p>
-                        <p className="unlocked">unlocked</p>
+                        <p className="locked">790 pts</p>
+                        <p className="unlocked">greece</p>
                     </div>
                     <div className="story16 story_style">
                         <img src={story16} alt="rome"/>
-                        <p className="locked">locked</p>
-                        <p className="unlocked">unlocked</p>
+                        <p className="locked">880 pts</p>
+                        <p className="unlocked">rome</p>
                     </div>
                     <div className="story17 story_style">
                         <img src={story17} alt="middleages"/>
-                        <p className="locked">locked</p>
-                        <p className="unlocked">unlocked</p>
+                        <p className="locked">970 pts</p>
+                        <p className="unlocked">middle ages</p>
                     </div>
                     <div className="story18 story_style">
                         <img src={story18} alt="newages"/>
-                        <p className="locked">locked</p>
-                        <p className="unlocked">unlocked</p>
+                        <p className="locked">1100 pts</p>
+                        <p className="unlocked">new ages</p>
                     </div>
                 </div>
                 <div className="story_old_age_next">

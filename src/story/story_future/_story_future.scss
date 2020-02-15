@@ -2,6 +2,7 @@
   width: 100%;
   height: 100%;
   display: none;
+  position: relative;
 
   .story_future {
     width: 100%;
@@ -73,7 +74,7 @@
     }
   }
 
-  .story_future_next {
+  .story_future_next{
     width: 100%;
     height: 100%;
     top: 0;
@@ -83,26 +84,22 @@
     justify-content: center;
     align-items: center;
     position: absolute;
-    background-image: url("../../images/6finish.jpg");
-    background-size: 100vw;
+    background-color: rgba(0, 0, 0, 0.85);
+    border-radius: 0 0 23px 23px;
 
-    p {
-      font-family: 'Bangers', cursive;
+    p{
       color: #f5ff00;
-      font-size: 65px;
-      letter-spacing: 1px;
-      text-shadow: 5px 5px 10px #282626;
-      -webkit-text-stroke-width: 3px;
-      -webkit-text-stroke-color: #000656;
+      font-size: 45px;
+      text-transform: uppercase;
     }
 
-    .restart{
+    .finish{
       font-family: 'Sriracha', cursive;
-      width: 130px;
+      width: 110px;
       height: 50px;
       color: #f5ff00;
       background-color: #002c88;
-      font-size: 25px;
+      font-size: 18px;
       text-transform: uppercase;
       border-radius: 30px;
       border: 3px solid #f5ff00;
