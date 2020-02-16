@@ -12,20 +12,21 @@ class Game_In extends Component {
 
     render() {
         return (
-            <div className='game_in'>
-                <div className="title_story">
-                    <div className="title">
-                        Evolution Game
+            <div className="game_out">
+                <div className='game_in'>
+                    <div className="title_story">
+                        <div className="title">
+                            Evolution Game
+                        </div>
+                        <Era_Switcher/>
+                        <Story/>
                     </div>
-                    <Era_Switcher/>
-                    <Story/>
+                    <div className="era_counter_tap">
+                        <Counter/>
+                        <Era/>
+                        <Tap/>
+                    </div>
                 </div>
-                <div className="era_counter_tap">
-                    <Counter/>
-                    <Era/>
-                    <Tap/>
-                </div>
-
             </div>
         )
     }
