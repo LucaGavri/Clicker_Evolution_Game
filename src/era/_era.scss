@@ -71,3 +71,71 @@
     -webkit-text-stroke-color: #000656;
   }
 }
+
+@media (max-width: 800px){
+  .era{
+
+    .era_first_life{
+      font-size: 45px;
+    }
+    .era_mammals{
+      font-size: 45px;
+    }
+    .era_old_age{
+      font-size: 45px;
+    }
+    .era_new_age{
+      font-size: 45px;
+    }
+    .era_future{
+      font-size: 45px;
+    }
+  }
+}
+
+@media (max-width: 640px){
+  .era{
+
+    .era_first_life{
+      font-size: 35px;
+      -webkit-text-stroke-width: 1px;
+    }
+    .era_mammals{
+      font-size: 35px;
+      -webkit-text-stroke-width: 1px;
+    }
+    .era_old_age{
+      font-size: 35px;
+      -webkit-text-stroke-width: 1px;
+    }
+    .era_new_age{
+      font-size: 35px;
+      -webkit-text-stroke-width: 1px;
+    }
+    .era_future{
+      font-size: 35px;
+      -webkit-text-stroke-width: 1px;
+    }
+  }
+}
+
+@media (max-width: 500px){
+  .era{
+
+    .era_first_life{
+      font-size: 25px;
+    }
+    .era_mammals{
+      font-size: 25px;
+    }
+    .era_old_age{
+      font-size: 25px;
+    }
+    .era_new_age{
+      font-size: 25px;
+    }
+    .era_future{
+      font-size: 25px;
+    }
+  }
+}

@@ -4,6 +4,7 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
+  font-size: 16px;
 
   .first_life_switcher_normal {
     width: 17%;
@@ -237,5 +238,29 @@
     align-items: center;
     color: #00aa0c;
     text-transform: uppercase;
+  }
+}
+
+@media (max-width: 900px){
+  .era_switcher{
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 800px){
+  .era_switcher{
+    font-size: 11px;
+  }
+}
+
+@media (max-width: 620px){
+  .era_switcher{
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 550px){
+  .era_switcher{
+    font-size: 8px;
   }
 }

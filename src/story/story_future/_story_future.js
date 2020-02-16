@@ -103,27 +103,27 @@ class Story_Future extends Component {
                     <div className="story26 story_style">
                         <img src={story26} alt="milkyway"/>
                         <p className="locked">3500 pts</p>
-                        <p className="unlocked">milky way colonies</p>
+                        <p className="unlocked">milky way</p>
                     </div>
                     <div className="story27 story_style">
                         <img src={story27} alt="galacticgroup"/>
                         <p className="locked">4000 pts</p>
-                        <p className="unlocked">galactics colonies</p>
+                        <p className="unlocked">galactics</p>
                     </div>
                     <div className="story28 story_style">
                         <img src={story28} alt="virgo"/>
                         <p className="locked">4500 pts</p>
-                        <p className="unlocked">laniakea colonies</p>
+                        <p className="unlocked">laniakea</p>
                     </div>
                     <div className="story29 story_style">
                         <img src={story29} alt="universe"/>
                         <p className="locked">5000 pts</p>
-                        <p className="unlocked">universe colonies</p>
+                        <p className="unlocked">universe</p>
                     </div>
                     <div className="story30 story_style">
                         <img src={story30} alt="multiverse"/>
                         <p className="locked">6000 pts</p>
-                        <p className="unlocked">multiverse colonies</p>
+                        <p className="unlocked">multiverse</p>
                     </div>
                 </div>
                 <div className="story_future_next">

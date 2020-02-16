@@ -20,6 +20,11 @@
       font-size: 35px;
       text-align: center;
 
+      &::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+      }
+
       &:focus{
         border: none;
         outline: none;
@@ -28,7 +33,7 @@
   }
 }
 
-@media (max-width: 1035px){
+@media (max-width: 1070px){
   .counter{
 
     .counter_txt{
@@ -37,6 +42,62 @@
       .counter_input{
         width: 100px;
         font-size: 25px;
+      }
+    }
+  }
+}
+
+@media (max-width: 750px){
+  .counter{
+
+    .counter_txt{
+      font-size: 15px;
+
+      .counter_input{
+        width: 80px;
+        font-size: 20px;
+      }
+    }
+  }
+}
+
+@media (max-width: 580px){
+  .counter{
+
+    .counter_txt{
+      font-size: 14px;
+
+      .counter_input{
+        width: 60px;
+        font-size: 16px;
+      }
+    }
+  }
+}
+
+@media (max-width: 500px){
+  .counter{
+
+    .counter_txt{
+      font-size: 12px;
+
+      .counter_input{
+        width: 50px;
+        font-size: 14px;
+      }
+    }
+  }
+}
+
+@media (max-width: 430px){
+  .counter{
+
+    .counter_txt{
+      font-size: 10px;
+
+      .counter_input{
+        width: 45px;
+        font-size: 12px;
       }
     }
   }

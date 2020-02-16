@@ -117,7 +117,7 @@ class Story_New_Age extends Component {
                     <div className="story24 story_style">
                         <img src={story24} alt="solarsystem"/>
                         <p className="locked">2500 pts</p>
-                        <p className="unlocked">solar system colony</p>
+                        <p className="unlocked">solar system</p>
                     </div>
                 </div>
                 <div className="story_new_age_next">

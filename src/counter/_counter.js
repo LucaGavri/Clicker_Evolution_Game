@@ -10,8 +10,8 @@ class Counter extends Component {
         return (
             <div className="counter">
                 <p className="counter_txt">
-                    you have
-                    <input className="counter_input" type="number" value="0"/>
+                    you have &nbsp;
+                    <input className="counter_input" type="number" value="0" readOnly/>
                      points !
                 </p>
             </div>

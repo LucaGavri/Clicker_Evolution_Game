@@ -57,3 +57,82 @@
     }
   }
 }
+
+@media (max-width: 1000px){
+  .game_out {
+
+    .game_in {
+      border: 2px solid #f5ff00;
+
+      .title_story {
+
+        .title {
+          font-size: 55px;
+          text-shadow: 5px 5px 8px #282626;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 830px){
+  .game_out {
+
+    .game_in {
+      max-height: 360px;
+      max-width: 720px;
+    }
+  }
+}
+
+@media (max-width: 720px){
+  .game_out {
+
+    .game_in {
+
+      .title_story {
+        border: 1px solid #f5ff00;
+
+        .title {
+          font-size: 45px;
+          text-shadow: 5px 5px 6px #282626;
+        }
+      }
+
+      .era_counter_tap{
+        border: 1px solid #f5ff00;
+      }
+    }
+  }
+}
+
+@media (max-width: 640px){
+  .game_out {
+
+    .game_in {
+
+      .title_story {
+
+        .title {
+          font-size: 40px;
+          -webkit-text-stroke-width: 1px;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 520px){
+  .game_out {
+
+    .game_in {
+
+      .title_story {
+
+        .title {
+          font-size: 30px;
+        }
+      }
+    }
+  }
+}
