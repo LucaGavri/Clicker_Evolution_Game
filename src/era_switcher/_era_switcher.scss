@@ -20,6 +20,7 @@
     color: #f5ff00;
     text-transform: uppercase;
     transition: 0.4s all;
+    touch-action: none;
   }
 
   .first_life_switcher_finished {

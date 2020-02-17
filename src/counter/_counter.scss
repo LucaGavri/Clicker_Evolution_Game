@@ -10,6 +10,7 @@
     text-transform: uppercase;
     font-size: 30px;
     margin: 0;
+    text-shadow: 5px 5px 6px #282626;
 
     .counter_input{
       font-family: 'Sriracha', cursive;
@@ -19,6 +20,7 @@
       color: #f5ff00;
       font-size: 35px;
       text-align: center;
+      text-shadow: 5px 5px 6px #282626;
 
       &::-webkit-inner-spin-button {
         -webkit-appearance: none;

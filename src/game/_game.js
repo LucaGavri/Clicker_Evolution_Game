@@ -18,13 +18,14 @@ class Game extends Component {
             <div className='game'>
                 <Game_In/>
                 <div className="end">
-                    <p>thanks for your time</p>
+                    <p className="end_txt">thanks for your time</p>
                     <button className="restart">restart</button>
+                    <p className="footer">&copy;2020, Made by <a href="mailto:lukaszgawrys13@gmail.com">LucaGavri</a>.</p>
                 </div>
                 <div className="width_control">
-                <p>
-                    rotate
-                </p>
+                    <p>
+                        rotate
+                    </p>
                     <img src={rotate} alt="rotate"/>
                 </div>
             </div>
