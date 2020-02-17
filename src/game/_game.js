@@ -15,12 +15,13 @@ class Game extends Component {
         });
 
         //width control
-        function control() {
+
+        function whatWidth() {
             if(game_width < 450){
                 rotate.style.visibility = 'visible'
             }
         }
-        control()
+        whatWidth();
     }
 
     render() {

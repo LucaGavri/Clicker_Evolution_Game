@@ -2,72 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1058f8e1-8c21-4d1a-8132-3bc66f276f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/images/phone_rotate.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/precache-manifest.b33ab956c047ebfaa65f4cdac16ef103.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/service-worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/css/main.03ec977c.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/css/main.03ec977c.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/2.eb81cce5.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/2.eb81cce5.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/main.f027a7d5.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/main.f027a7d5.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/runtime~main.d653cc00.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/runtime~main.d653cc00.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/10_rhino.3d113ca0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/11_chimpaneze.7f59b964.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/12_australopithecus.620dc709.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/13_prehuman.563edcf9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/15_mesopotamia.546fb18d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/16_egypt.a49a3234.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/17_greece.ba31a2c6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/18_rome.34788b58.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/19_middleages.d73efe2d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/1_cell.564899f3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/1firstlife.58e68388.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/20_newages.366d6ccc.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/21_firstmachine.a73e90fb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/23_now.1d7e178b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/24_moonstation.02920b88.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/25_marsstation.df86f8bb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/26_venusstation.4220075b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/27_solarsystem.08bbc2c7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/28_firstcontact.2fdac8f2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/29_milkyway.0b5d996e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/2_trilobite.d3f7c068.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/2mammals.9ff593e3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/30_galacticgroup.337dfddd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/31_virgo.abfe3dbd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/32_universe.4e0c4417.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/33_multiverse.fd00ddf2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/3_placoderm.77c71d53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/3ancienttonow.072be21a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/4_amphibian.9ad9a06b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/4nowtospace.d78f1a43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/5_reptile.6a684ae5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/5humanfuture.be2e15ed.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/6finish.5d22231a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/7_dinosaur.e1df516c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/8_mousy.5d5ce006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/9_australosfenid.51729184.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/counter/_counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/counter/_counter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/counter/_counter.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/counter/_counter.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/era/_era.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/era/_era.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/era_switcher/_era_switcher.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/era_switcher/_era_switcher.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/game/_game.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/_game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/_game.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/_game.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game_in/_game_in.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/game_in/_game_in.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/story/story_first_life/_story_first_life.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/story_first_life/_story_first_life.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/story/story_future/_story_future.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/story_future/_story_future.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/story/story_future/_story_future.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/story_future/_story_future.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/story/story_mammals/_story_mammals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/story_mammals/_story_mammals.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/story/story_new_age/_story_new_age.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/story_new_age/_story_new_age.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/story/story_new_age/_story_new_age.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/story_new_age/_story_new_age.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/story/story_old_age/_story_old_age.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/story/story_old_age/_story_old_age.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tap/_tap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/tap/_tap.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -93,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/game/_game.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="247">
+              <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -299,15 +234,16 @@
       <workItem from="1581619108906" duration="7230000" />
       <workItem from="1581784865431" duration="534000" />
       <workItem from="1581788363675" duration="12000000" />
-      <workItem from="1581864362026" duration="18560000" />
+      <workItem from="1581864362026" duration="22800000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197281000" />
+    <option name="totallyTimeSpent" value="201521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="25" width="1311" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1863354" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24920635" />
@@ -322,7 +258,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3061889" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.10912052" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32938856" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -647,8 +583,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/game/_game.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="247">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
