@@ -21,7 +21,7 @@ class Tap extends Component {
 
         tap_first_life.addEventListener('click', function (e) {
             (e).preventDefault();
-            counter_to_tap.stepUp(10000);
+            counter_to_tap.stepUp(1);
         });
 
         tap_mammals.addEventListener('click', function (e) {

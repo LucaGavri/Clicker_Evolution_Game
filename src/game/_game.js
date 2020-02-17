@@ -6,22 +6,11 @@ import rotate from "../images/phone_rotate.png"
 class Game extends Component {
     componentDidMount() {
 
-        const game_width = document.querySelector('.game').offsetWidth;
-        const rotate = document.querySelector('.width_control');
-
         //restart
         document.querySelector('.restart').addEventListener('click', function () {
             window.location.reload()
         });
 
-        //width control
-
-        function whatWidth() {
-            if(game_width < 450){
-                rotate.style.visibility = 'visible'
-            }
-        }
-        whatWidth();
     }
 
     render() {
