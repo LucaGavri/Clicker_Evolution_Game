@@ -9,13 +9,23 @@ import Era_Switcher from '../era_switcher/_era_switcher'
 class Game_In extends Component {
     componentDidMount() {
 
+        //zachowanie instrukcji
         document.querySelector('.instructions_left_next').addEventListener('click', function (e) {
             (e).preventDefault();
             document.querySelector('.instructions_left').style.display = 'none';
             document.querySelector('.instructions_right').style.display = 'flex';
         });
 
+        document.querySelector('.instructions_right_story_next').addEventListener('click', function (e) {
+            (e).preventDefault();
+            document.querySelector('.instructions_right_story').style.visibility = 'hidden';
+            document.querySelector('.instructions_right_era').style.visibility = 'visible';
+        });
 
+        document.querySelector('.instructions_right_era_next').addEventListener('click', function (e) {
+            (e).preventDefault();
+            document.querySelector('.instructions_right').style.display = 'none';
+        });
     }
 
     render() {
@@ -31,17 +41,6 @@ class Game_In extends Component {
                         </div>
                     </div>
                     <div className="instructions_right">
-                        <div className="instructions_right_story">
-                            <div className="instructions_right_story_txt">
-                                <i className="fas fa-arrow-left"></i>
-                                <p>
-                                    When you collect enough points - you can unlock next element in story
-                                </p>
-                            </div>
-                            <div className="instructions_right_story_next">
-                                next >>
-                            </div>
-                        </div>
                         <div className="instructions_right_era">
                             <div className="instructions_right_era_txt">
                                 <i className="fas fa-arrow-left"></i>
@@ -51,6 +50,17 @@ class Game_In extends Component {
                             </div>
                             <div className="instructions_right_era_next">
                                 play
+                            </div>
+                        </div>
+                        <div className="instructions_right_story">
+                            <div className="instructions_right_story_txt">
+                                <i className="fas fa-arrow-left"></i>
+                                <p>
+                                    When you collect enough points - you can unlock next element in story
+                                </p>
+                            </div>
+                            <div className="instructions_right_story_next">
+                                next >>
                             </div>
                         </div>
                     </div>

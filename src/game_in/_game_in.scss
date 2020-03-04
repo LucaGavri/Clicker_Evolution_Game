@@ -77,29 +77,105 @@
       align-items: center;
       color: #f5ff00;
 
-      p {
-        width: 80%;
-        font-size: 25px;
-      }
-
-      .instructions_right_next {
-        width: 100px;
-        height: 30px;
-        background-color: #002c88;
-        border: 2px solid #f5ff00;
-        border-radius: 30px;
+      .instructions_right_story{
+        width: 100%;
+        height: 50%;
         display: flex;
+        flex-direction: column;
         justify-content: center;
         align-items: center;
-        cursor: pointer;
-        font-size: 16px;
-        text-transform: uppercase;
-        transition: 0.4s all;
 
-        &:hover {
-          background-color: #f5ff00;
-          border: 2px solid #002c88;
-          color: #002c88;
+
+        .instructions_right_story_txt {
+          width: 95%;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+
+
+          i {
+            width: 10%;
+            color: #f5ff00;
+            font-size: 20px;
+          }
+
+          p {
+            width: 85%;
+            font-size: 25px;
+            margin: 0 0 5px 0;
+          }
+        }
+
+        .instructions_right_story_next {
+          width: 100px;
+          height: 30px;
+          background-color: #002c88;
+          border: 2px solid #f5ff00;
+          border-radius: 30px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          cursor: pointer;
+          font-size: 16px;
+          text-transform: uppercase;
+          transition: 0.4s all;
+
+          &:hover {
+            background-color: #f5ff00;
+            border: 2px solid #002c88;
+            color: #002c88;
+          }
+        }
+      }
+
+      .instructions_right_era{
+        width: 100%;
+        height: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        visibility: hidden;
+
+        .instructions_right_era_txt {
+          width: 95%;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+
+
+          i {
+            width: 10%;
+            color: #f5ff00;
+            font-size: 20px;
+          }
+
+          p {
+            width: 85%;
+            font-size: 25px;
+            margin: 0 0 5px 0;
+          }
+        }
+
+        .instructions_right_era_next {
+          width: 100px;
+          height: 30px;
+          background-color: #002c88;
+          border: 2px solid #f5ff00;
+          border-radius: 30px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          cursor: pointer;
+          font-size: 16px;
+          text-transform: uppercase;
+          transition: 0.4s all;
+
+          &:hover {
+            background-color: #f5ff00;
+            border: 2px solid #002c88;
+            color: #002c88;
+          }
         }
       }
     }
@@ -167,6 +243,29 @@
     .game_in {
       border: 2px solid #f5ff00;
 
+      .instructions_right{
+
+        .instructions_right_story{
+
+          .instructions_right_story_txt{
+
+            p{
+              font-size: 20px;
+            }
+          }
+        }
+
+        .instructions_right_era{
+
+          .instructions_right_era_txt{
+
+            p{
+              font-size: 20px;
+            }
+          }
+        }
+      }
+
       .title_story {
 
         .title {
@@ -181,34 +280,35 @@
   }
 }
 
-@media (max-width: 880px) {
-  .game_out {
-
-    .game_in {
-
-      .instructions_left {
-
-        p {
-          font-size: 16px;
-        }
-      }
-
-      .instructions_right {
-
-        p {
-          font-size: 16px;
-        }
-      }
-    }
-  }
-}
-
 @media (max-width: 830px) {
   .game_out {
 
     .game_in {
       max-height: 365px;
       max-width: 710px;
+
+      .instructions_right{
+
+        .instructions_right_story{
+
+          .instructions_right_story_txt{
+
+            p{
+              font-size: 16px;
+            }
+          }
+        }
+
+        .instructions_right_era{
+
+          .instructions_right_era_txt{
+
+            p{
+              font-size: 16px;
+            }
+          }
+        }
+      }
     }
   }
 }
@@ -232,6 +332,48 @@
 
       .era_counter_tap {
         border: 1px solid #f5ff00;
+      }
+    }
+  }
+}
+
+@media (max-width: 670px) {
+  .game_out {
+
+    .game_in{
+      .instructions_right{
+
+        .instructions_right_story{
+
+          .instructions_right_story_txt{
+
+            p{
+              font-size: 12px;
+            }
+          }
+
+          .instructions_right_story_next{
+            width: 60px;
+            height: 20px;
+            font-size: 12px;
+          }
+        }
+
+        .instructions_right_era{
+
+          .instructions_right_era_txt{
+
+            p{
+              font-size: 12px;
+            }
+          }
+
+          .instructions_right_era_next{
+            width: 60px;
+            height: 20px;
+            font-size: 12px;
+          }
+        }
       }
     }
   }
