@@ -4,12 +4,12 @@ import Story from '../story/_story';
 import Era from '../era/_era';
 import Counter from '../counter/_counter';
 import Tap from '../tap/_tap';
-import Era_Switcher from '../era_switcher/_era_switcher'
+import Era_Switcher from '../era_switcher/_era_switcher';
 
 class Game_In extends Component {
     componentDidMount() {
 
-        //zachowanie instrukcji
+        // instrukcja
         document.querySelector('.instructions_left_next').addEventListener('click', function (e) {
             (e).preventDefault();
             document.querySelector('.instructions_left').style.display = 'none';

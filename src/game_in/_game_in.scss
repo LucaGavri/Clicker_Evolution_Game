@@ -1,8 +1,8 @@
 .game_out {
   height: 0;
-  padding-bottom: 50%;
+  padding-bottom: 47%;
   position: relative;
-  width: 95%;
+  width: 90%;
 
   .game_in {
     position: absolute;
@@ -237,7 +237,7 @@
   }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1130px) {
   .game_out {
 
     .game_in {
@@ -313,7 +313,7 @@
   }
 }
 
-@media (max-width: 720px) {
+@media (max-width: 800px) {
   .game_out {
 
     .game_in {
@@ -420,7 +420,7 @@
   }
 }
 
-@media (max-width: 520px) {
+@media (max-width: 580px) {
   .game_out {
 
     .game_in {
