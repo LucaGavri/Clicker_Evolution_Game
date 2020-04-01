@@ -68,7 +68,8 @@ class Game_In extends Component {
                         <div className="title">
                             <p className="title_main">Evolution Game</p>
                             <p className="title_foot">&copy; 2020, Made by <a
-                                href="mailto:lukaszgawrys13@gmail.com">LucaGavri</a></p>
+                                href="https://lucagavri.github.io/Portfolio_Website/" target="_blank"
+                                rel="noreferrer noopener">LucaGavri</a></p>
                         </div>
                         <Era_Switcher/>
                         <Story/>
